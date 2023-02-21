@@ -1,0 +1,20 @@
+{
+    "name": "sonus/product-rating-system",
+    "description": "Product_Rating",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronak"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload" : {
+        "psr-4" : {
+            "App\\": "src/"
+        }
+    }
+    
+}
